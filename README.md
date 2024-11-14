@@ -1,5 +1,5 @@
 # About
-This is a minimal Audioplayer with a Playlist feature. It is especially Designed for Audiobooks.
+This is a minimal Audioplayer with a Playlist feature. It is especially designed for Audiobooks.
 
 ## Styling
 
