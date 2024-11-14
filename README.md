@@ -15,4 +15,9 @@ or use the public folder.
 The Copyright for the Sample Pictures and Tracks belongs to Nikolai Winter. They are not to be reposted! 
 If you are Interested in checking out the whole Audiobook, you can buy the Book "SPOOKY" by Nikolai Winter(it comes with the book)
 
+## Things to improve
+
+Right now, the duration of the tracks displayed in the Playlist is hard coded and not calculated. This could be something to improve.
+
+
 
