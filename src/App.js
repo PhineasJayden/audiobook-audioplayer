@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import styled from 'styled-components';
+import Audiobook from './Pages/Audiobook.jsx';
+import GlobalStyles from './styles/GlobalStyles.js';
+
+const StyledAppLayout = styled.main`
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+  overflow-x: hidden;
+  align-items: center;
+  text-align: center;
+
+  scroll-timeline-name: --MainTimeline;
+`;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <GlobalStyles />
+      <StyledAppLayout>
+        <Audiobook />
+      </StyledAppLayout>
+    </>
   );
 }
 
