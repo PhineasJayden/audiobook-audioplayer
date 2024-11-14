@@ -1,9 +1,9 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 const AudioContainer = styled.div`
   background-color: transparent;
   align-self: stretch;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -13,7 +13,7 @@ const AudioContainer = styled.div`
   height: 62px;
   padding: 20px;
   &:first-of-type {
-    margin-top: 150px;
+    margin-top: 50px;
   }
   &:last-of-type {
     margin-bottom: 50px;
@@ -60,9 +60,9 @@ function AudioItem({
 
         <div
           style={{
-            display: "flex",
-            width: "100%",
-            justifyContent: "space-between",
+            display: 'flex',
+            width: '100%',
+            justifyContent: 'space-between',
           }}
         >
           <p>Kapitel {id + 1}</p>

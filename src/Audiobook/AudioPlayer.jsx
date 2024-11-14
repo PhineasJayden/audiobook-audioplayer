@@ -31,15 +31,13 @@ const AudioPlayerContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 20px;
-  padding-bottom: 60px;
-  margin-top: 135px;
+  margin: 20px;
 `;
 
 const Img = styled.img`
   object-fit: cover;
-  width: 300px;
-  height: 300px;
+  max-width: 300px;
+  max-height: 300px;
   align-self: center;
   border-radius: 38px;
   box-shadow: var(--shadow);
@@ -50,8 +48,8 @@ const Row = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 370px;
-  margin-bottom: 3px;
+  max-width: 370px;
+  margin-bottom: 5px;
 `;
 
 function AudioPlayer({
