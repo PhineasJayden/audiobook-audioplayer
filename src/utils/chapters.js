@@ -1,9 +1,6 @@
 import k01_audio from '../assets/audio/k01_audio.mp3';
 import k02_audio from '../assets/audio/k02_audio.mp3';
 
-import K_01 from '../assets/images/K_01.png';
-import K_02 from '../assets/images/K_02.png';
-
 import K_01_prev from '../assets/images/K_01_prev.png';
 import K_02_prev from '../assets/images/K_02_prev.png';
 
