@@ -28,7 +28,7 @@ export const chapters = [
   {
     id: 'holzdiebe1',
     chapter: 1,
-    title: 'Kapitel 1',
+    title: 'Kein Entkommen',
     src: k01_audio,
     time: '08:12',
     imgPreview: K_01_prev,
@@ -37,7 +37,7 @@ export const chapters = [
   {
     id: 'holzdieb2',
     chapter: 2,
-    title: 'Kapitel 2',
+    title: 'Der verkaufte Wald',
     src: k02_audio,
     time: '13:00',
     imgPreview: K_02_prev,
@@ -46,7 +46,7 @@ export const chapters = [
   {
     id: 'holzdiebe3',
     chapter: 3,
-    title: 'Kapitel 3',
+    title: 'Die Königin und der Mann mit Hut',
     src: k03_audio,
     time: '29:51',
     imgPreview: K_03_prev,
@@ -55,7 +55,7 @@ export const chapters = [
   {
     id: 'holzdiebe4',
     chapter: 4,
-    title: 'Kapitel 4',
+    title: 'Alles verdampft',
     src: k04_audio,
     time: '18:02',
     imgPreview: K_04_prev,
@@ -64,7 +64,7 @@ export const chapters = [
   {
     id: 'holzdiebe5',
     chapter: 5,
-    title: 'Kapitel 5',
+    title: 'Ein leiser Abschied',
     src: k05_audio,
     time: '09:42',
     imgPreview: K_05_prev,
@@ -73,7 +73,7 @@ export const chapters = [
   {
     id: 'holzdiebe6',
     chapter: 6,
-    title: 'Kapitel 6',
+    title: 'Rosas Traum',
     src: k06_audio,
     time: '11:30',
     imgPreview: K_06_prev,
@@ -82,7 +82,7 @@ export const chapters = [
   {
     id: 'holzdiebe7',
     chapter: 7,
-    title: 'Kapitel 7',
+    title: 'Ein neues Leben',
     src: k07_audio,
     time: '33:58',
     imgPreview: K_07_prev,
@@ -91,7 +91,7 @@ export const chapters = [
   {
     id: 'holzdiebe8',
     chapter: 8,
-    title: 'Kapitel 8',
+    title: 'Das ganz große Spiel',
     src: k08_audio,
     time: '21:10',
     imgPreview: K_08_prev,
@@ -100,7 +100,7 @@ export const chapters = [
   {
     id: 'holzdiebe9',
     chapter: 9,
-    title: 'Kapitel 9',
+    title: 'Das Arbeitshaus',
     src: k09_audio,
     time: '1:00:09',
     imgPreview: K_09_prev,
@@ -109,7 +109,7 @@ export const chapters = [
   {
     id: 'holzdiebe10',
     chapter: 10,
-    title: 'Kapitel 10',
+    title: 'Das Rätsel des Juggernaut',
     src: k10_audio,
     time: '29:49',
     imgPreview: K_10_prev,
@@ -118,7 +118,7 @@ export const chapters = [
   {
     id: 'holzdiebe11',
     chapter: 11,
-    title: 'Kapitel 11',
+    title: 'Der große Plan',
     src: k11_audio,
     time: '24:15',
     imgPreview: K_11_prev,
@@ -127,7 +127,7 @@ export const chapters = [
   {
     id: 'holzdiebe12',
     chapter: 12,
-    title: 'Kapitel 12',
+    title: 'Der Streik',
     src: k12_audio,
     time: '53:54',
     imgPreview: K_12_prev,
