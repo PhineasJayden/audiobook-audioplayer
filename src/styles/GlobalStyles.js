@@ -5,11 +5,11 @@ const GlobalStyles = createGlobalStyle`
 :root {
 
 
-  --lila-hell: #CEB7FF;
-  --lila-footer: #433167;
+  --lila-hell: #F0F0D7;
+  --lila-footer: #727D73;
   --lila-modal:#9e80dd;
-  --lila-mittel: #8d71c9;
-  --lila-bg: #110f15;
+  --lila-mittel: #D0DDD0;
+  --lila-bg: #727D73;
   --lila-button-bg: #231e30;
 --gelb-button-bg: #242224;
 --gelb-button-text: #FFF5D1;
@@ -19,13 +19,13 @@ const GlobalStyles = createGlobalStyle`
 
   --gelb-button-border:  #B7AE80;
 
-  --shadow-btn: 0px 4px 27px 0px rgba(206,183,255,0.3);
+  --shadow-btn: 0px 4px 27px 0px rgb(64, 70, 65);
   --shadow-btn-gelb: 0px 4px 27px 0px rgba(255, 245, 209, 0.16);
 
-  --shadow: 0px 4px 27px 0px rgba(206,183,255,0.4);
-  --shadow-light: 0px 4px 27px 0px rgba(206, 183, 255, 0.5);
+  --shadow: 0px 4px 27px 0px rgb(64, 70, 65);
+  --shadow-light: 0px 4px 27px 0px rgb(64, 70, 65);
   --shadow-dark: 0px 4px 27px 0px  #110f15ff;
-  --shadow-small: 0px 4px 10px 0px rgba(206,183,255,0.4);
+  --shadow-small: 0px 4px 10px 0px rgb(64, 70, 65);
   
   --size-xs: 16px;
   --size-s: 18px;
