@@ -10,7 +10,9 @@ import k09_audio from '../assets/audio/DieKleinenHolzdiebe_09.mp3';
 import k10_audio from '../assets/audio/DieKleinenHolzdiebe_10.mp3';
 import k11_audio from '../assets/audio/DieKleinenHolzdiebe_11.mp3';
 import k12_audio from '../assets/audio/DieKleinenHolzdiebe_12.mp3';
+import vorwort from '../assets/audio/DieKleinenHolzdiebe_Vorwort.mp3';
 
+import vorwort_prev from '../assets/images/Vorwort.jpg';
 import K_01_prev from '../assets/images/Kapitel_01.jpg';
 import K_02_prev from '../assets/images/Kapitel_02.jpg';
 import K_03_prev from '../assets/images/Kapitel_03.jpg';
@@ -20,11 +22,21 @@ import K_06_prev from '../assets/images/Kapitel_06.jpg';
 import K_07_prev from '../assets/images/Kapitel_07.jpg';
 import K_08_prev from '../assets/images/Kapitel_08.jpg';
 import K_09_prev from '../assets/images/Kapitel_09.jpg';
-import K_10_prev from '../assets/images/Kapitel_11.jpg';
+import K_10_prev from '../assets/images/Kapitel_10.jpg';
 import K_11_prev from '../assets/images/Kapitel_11.jpg';
 import K_12_prev from '../assets/images/Kapitel_12.jpg';
 
 export const chapters = [
+  {
+    id: 'vorwort',
+    chapter: 0,
+    title: 'Vorwort',
+    src: vorwort,
+    time: '04:47',
+    imgPreview: vorwort_prev,
+    alt: '',
+  },
+
   {
     id: 'holzdiebe1',
     chapter: 1,

@@ -65,7 +65,7 @@ function AudioItem({
             justifyContent: 'space-between',
           }}
         >
-          <p>Kapitel {id + 1}</p>
+          <p>Kapitel {id}</p>
           <p>{duration}</p>
         </div>
       </AudioInfo>
